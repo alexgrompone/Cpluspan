@@ -3,6 +3,8 @@
  *
  *  Created on: February 8, 2016
  *      Author: Alex Grompone
+ *      alex.grompone@gmail.com
+ *      Please refer to the documentation for further information
  */
 
 //****************************************************
