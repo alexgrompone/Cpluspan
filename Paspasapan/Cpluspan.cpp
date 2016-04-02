@@ -503,7 +503,7 @@ int main(){
 
 
         //DATA COLLECTION
-		cout << "Insert the for the second Mammals Group:\n";
+		cout << "Insert the name for the second Mammals Group:\n";
 		cin >> Group2.Mammals_group_name;
 		cout << "Insert the name of one of the " << Group2.Mammals_group_name <<":\n";
         cin >>Group2.Mammal_1.name;
@@ -549,12 +549,23 @@ int main(){
 		dalmatian.set_spots(spots_dalmatian);
 		cout << "My Dalmatian has " <<dalmatian.get_spots()<< " spots";
 
+		//Example of
+
+
+		//Example of
+
+
 		break;
 	}
 	case 10: {
 		//****************************************************
-		//Topic 10 Other Commands
+		//Topic 10 Other Commands (Future Work)
 		//****************************************************
+//Templates
+//Garbage Collection
+//Constants
+//
+//Do more on castimg
 
 		   cout << "Other Commands\n\n";
 
