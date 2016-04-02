@@ -54,7 +54,7 @@ public://the definition below can be accessed everywhere. for variable internal 
 int weight;
 int age;
 char name[20];
-};//NOTE: each class definition requires a ';'
+};//NOTE: each class definition line ends with ';'
 
 class Mammals // class definition for Topic 8
 {
