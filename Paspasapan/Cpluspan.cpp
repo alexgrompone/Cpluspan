@@ -525,6 +525,7 @@ int main(){
 		/*NOTES:
 		 * Object Oriented programming is based on the use of classes.
 		 * In this topic is provided a collection of techniques to use the classes.
+		 * More example will be added in the future.
 		 */
 
 		//Example of Inheritance
