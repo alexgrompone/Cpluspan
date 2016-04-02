@@ -2,7 +2,7 @@
  *Cpluspan.cpp Version1
  *
  *  Created on: February 8, 2016
- *      Author: Alessio Grompone
+ *      Author: Alex Grompone
  */
 
 //****************************************************
